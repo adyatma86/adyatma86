@@ -6,11 +6,8 @@
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 1210px;
-    margin-top: 1000px;
-    margin-bottom: -800; 
-    margin-right: 10px;
-    margin-left: 10px;       
+    height: 1920px;
+    margin: 0px;
 }
 .oooo{
     display: flex;
