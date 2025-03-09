@@ -1,5 +1,5 @@
  body{
-    background-image: url('IMG_5550.JPG');
+    background-image: url('WhatsApp\ Image\ 2025-03-09\ at\ 11.34.02_90a47fe9.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -7,16 +7,16 @@
     justify-content: center;
     align-items: center;
     height: 1920px;
-    margin-top: 1000px;
-    margin-bottom: 1000px;        
+    margin-top: 300px;
+    margin-bottom: 1200px; 
+    margin-right: 100px;       
 }
 .oooo{
     display: flex;
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    margin-right: 100px;
-    margin-top: 50px;
+    margin-top: 2000px;
     margin-bottom: 800px;
     gap: 20px;
 }
