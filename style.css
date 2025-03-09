@@ -1,24 +1,25 @@
- body{
-    background-image: url('IMG_5550.JPG');
+body{
+    background-image: url('WhatsApp\ Image\ 2025-03-09\ at\ 11.34.02_90a47fe9.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: auto;
+    height: 1920;
+    width: 1080;
     margin: 0;        
 }
 .oooo{
     display: flex;
-    flex-wrap: wrap;
+    flex-direction: column;
     justify-content: center;
     gap: 20px;
 }
 
 .oooo img{
-    max-width: 250px;
-    height: auto;
+    width: 600px;
+    height: 800px;
     border-radius: 8px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0,2);
 }
