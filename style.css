@@ -1,23 +1,24 @@
  body{
-    background-image: url('a.jpg');
+    background-image: url('—Pngtree—arabic\ islamic\ ramadan\ kareem\ ornamental_1740237.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     display: flex;
     justify-content: center;
     align-items: center;
-    height: 1920px;
-    margin-top: 300px;
-    margin-bottom: 1200px; 
-    margin-right: 100px;       
+    height: 1210px;
+    margin-top: 1000px;
+    margin-bottom: -800; 
+    margin-right: 10px;
+    margin-left: 10px;       
 }
 .oooo{
     display: flex;
-    flex-direction: column;
+    flex-wrap: wrap;
     align-items: center;
     justify-content: center;
-    margin-top: 2000px;
-    margin-bottom: 800px;
+    margin-top: 1000px;
+    margin-bottom: 1500px;
     gap: 20px;
 }
 
